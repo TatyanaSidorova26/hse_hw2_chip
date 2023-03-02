@@ -16,3 +16,13 @@
 |![image](https://user-images.githubusercontent.com/114301236/222524868-1d459172-8268-4f02-afaa-9e0f4c428908.png)|![image](https://user-images.githubusercontent.com/114301236/222524958-9ecdca4b-5301-4e5f-80fd-bc12fa64879b.png)|![image](https://user-images.githubusercontent.com/114301236/222525040-c7a12c22-9fe3-4fc6-a74d-5668eccf1830.png)|
 |![image](https://user-images.githubusercontent.com/114301236/222525179-24a901d2-63fe-4aff-a4a1-bb79875ad6ea.png)|![image](https://user-images.githubusercontent.com/114301236/222525220-f2916ee8-404f-43ef-bb69-17bdd124a370.png)|![image](https://user-images.githubusercontent.com/114301236/222525313-a3963df1-6f4b-4917-9aa1-95b45cf74173.png)|
 |![image](https://user-images.githubusercontent.com/114301236/222525368-034e9e6f-bb27-4843-b38e-0e16a7d0aedc.png)|![image](https://user-images.githubusercontent.com/114301236/222525437-ef77a439-a4ee-4804-86b3-44abb30f6e0d.png)|![image](https://user-images.githubusercontent.com/114301236/222525507-5697c629-96f8-42c7-9226-63cf65d1cc54.png)|
+
+## Выравнивание на 17 хромосому
+| | Общее число ридов | Выровнившиеся уникально |Выровнившиеся уникально (%) |Выровнившиеся неуникально |Выровнившиеся неуникально (%)| Не выровнившиеся |Не выровнившиеся (%)|
+|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|ENCFF794NKI|38877620|1655994|4.26%|3301153|8.49%|33920473|87.25%|
+|ENCFF468EBP|72421515|3118033|4.31%|6976663|9.63%|62326819|86.06%|
+|ENCFF349YSG|10167581|396363|3.90%|915992|9.01%|8855226|87.09%|
+
+**Ответ на вопрос:** Процент выравниваний получился низким, поскольку чтения выравнены лишь на одну из 46 хромосом. 
+
