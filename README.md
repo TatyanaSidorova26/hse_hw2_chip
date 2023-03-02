@@ -2,7 +2,7 @@
 
 Татьяна Сидорова, Группа 2
 
-[Ссылка на Колаб](https://colab.research.google.com/drive/1MBTUE6YXxupz3zQhIMVyv0CaPuNuHxe9#scrollTo=P4qjr_hYhqeb)
+[Ссылка на Колаб](https://colab.research.google.com/drive/1MBTUE6YXxupz3zQhIMVyv0CaPuNuHxe9#scrollTo=lT8If7HXiI9B)
 
 ## Анализ чтений FastQC
 
@@ -25,4 +25,19 @@
 |ENCFF349YSG|10167581|396363|3.90%|915992|9.01%|8855226|87.09%|
 
 **Ответ на вопрос:** Процент выравниваний получился низким, поскольку чтения выравнены лишь на одну из 46 хромосом. 
+
+## Диаграммы Эйлера-Венна
+
+**Пересечение пиков 1 реплики и ENCODE**
+|1 реплика с ENCODE|ENCODE с 1 репликой|
+|:----------------:|:----------------:|
+|![image](https://user-images.githubusercontent.com/114301236/222574015-9bca65dc-72f5-4d65-8704-05661782fff0.png)|![image](https://user-images.githubusercontent.com/114301236/222574083-76b403fa-70ef-46f0-9617-d27f01889cf5.png)|
+
+**Пересечение пиков 2 реплики и ENCODE**
+|2 реплика с ENCODE|ENCODE с 2 репликой|
+|:----------------:|:----------------:|
+|![image](https://user-images.githubusercontent.com/114301236/222574294-3ac71bd2-ee88-482d-9c5a-cd7fba8d5af3.png)|![image](https://user-images.githubusercontent.com/114301236/222574363-1011795a-1505-444d-aa9a-cb5520262b52.png)|
+
+**Ответ на вопрос:** Малое количество пересечений связано с тем, что чтения выравнивались на одну хромосому, в то время как в базе данных ENCODE есть пики для всех хромосом. 
+
 
